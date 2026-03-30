@@ -5,7 +5,7 @@ const projects = [
     title: "Wonderlust",
     description:
       "A full-stack property rental platform where users can list, discover, and book unique stays from around the world.",
-    image: "public/projects/project1.png",
+    image: "projects/project1.png",
     tags: ["Html", "Css", "JavaScript", "Node.js", "Express", "MongoDB"],
     link: "https://wonderlust-411z.onrender.com/",
     github: "https://github.com/PujaSingh8942/WonderLust.git",
@@ -15,7 +15,7 @@ const projects = [
     title: "TradeHive",
     description:
       "A full-stack stock trading platform featuring a real-time dashboard, market data visualization, trade execution, portfolio management, and performance analytics.",
-    image: "public/projects/project4.jpeg",
+    image: "projects/project4.jpeg",
     tags: [
       "Html",
       "Css",
@@ -34,7 +34,7 @@ const projects = [
     title: "SKYCAST - Weather Application",
     description:
       "A sleek, real-time weather app delivering accurate current conditions and forecasts for any location, powered by live weather APIs.",
-    image: "public/projects/project2.png",
+    image: "projects/project2.png",
     tags: ["Html", "Css", "JavaScript", "RESTful APIs"],
     link: "https://skycast-weather-application.onrender.com/",
     github:
@@ -45,7 +45,7 @@ const projects = [
     title: "MeetSphere",
     description:
       "A real-time video conferencing app built with WebRTC and Socket.io, supporting live video calls, screen sharing, in-meeting chat, and user authentication.",
-    image: "public/projects/project3.png",
+    image: "projects/project3.png",
     tags: [
       "Html",
       "Css",
