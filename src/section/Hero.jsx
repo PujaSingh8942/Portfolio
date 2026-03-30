@@ -97,8 +97,8 @@ export const Hero = () => {
               </Button>
 
               <a
-                href="/Resume.pdf"
-                download="Puja_Singh_Resume.pdf"
+                href="/Resume(1).pdf"
+                download="Puja_Singh_Resume(1).pdf"
                 target="_blank"
                 rel="noreferrer"
               >
